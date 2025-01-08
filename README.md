@@ -12,15 +12,17 @@ The dataset is available on Kaggle and includes labeled images of various skin l
 - `Skin_Cancer_Detection.ipynb`: The main notebook containing the entire workflow, including data loading, preprocessing, model building, training, and evaluation.
 
 ## Instructions
-1. Clone the repository: ```bash
+1. Clone the repository:
+   ```bash
    git clone https://github.com/yourusername/Skin-Cancer-Detection.git
    ```
-2. Navigate to the project directory:   ```bash
+3. Navigate to the project directory:
+   ```bash
    cd Skin-Cancer-Detection
    ```
-3. Install the required dependencies.  
-4. Download the dataset from Kaggle and place it in the appropriate directory as mentioned in the notebook.
-5. Run the Jupyter Notebook:
+5. Install the required dependencies.  
+6. Download the dataset from Kaggle and place it in the appropriate directory as mentioned in the notebook.
+7. Run the Jupyter Notebook:
    ```bash
    jupyter notebook Skin_Cancer_Detection.ipynb
    ```
