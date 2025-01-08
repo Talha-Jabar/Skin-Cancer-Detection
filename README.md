@@ -30,7 +30,7 @@ The dataset is available on Kaggle and includes labeled images of various skin l
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries (listed in `requirements.txt`)
+- Required Python libraries
 
 ## Model Training and Evaluation
 The notebook includes steps for:
